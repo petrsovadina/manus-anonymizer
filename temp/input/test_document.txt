@@ -1,0 +1,12 @@
+# Testovací soubor pro Streamlit rozhraní
+Pacient Jan Novák, rodné číslo 760506/1234, byl přijat do Fakultní nemocnice v Motole dne 15.5.2025.
+Adresa pacienta: Dlouhá 123, Praha 1, 110 00
+Telefon: +420 777 888 999
+Email: jan.novak@email.cz
+Číslo pojištěnce: 7605061234
+Diagnóza: J45.0 Astma
+Ošetřující lékař: MUDr. Petr Svoboda
+Oddělení: Pneumologie
+
+Pacient udává zhoršení dýchacích obtíží v posledních 3 dnech. Byla nasazena léčba Ventolin 100mcg 2 vdechy 3x denně.
+Kontrola stanovena na 22.5.2025 v 10:30.
